@@ -1,0 +1,1 @@
+  if ((time.time() - start_time) >= 300):
